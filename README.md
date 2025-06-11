@@ -26,5 +26,5 @@ This is the online food ordering web application made using React.JS and CSS for
 ### 5. React-Scroll
 ### 6. sweetalert.js
 
-### Hosted Application Link
+## Hosted Application Link
 https://homely-by-sumitchhablani.onrender.com
