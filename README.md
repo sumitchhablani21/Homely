@@ -3,9 +3,7 @@ This is the online food ordering web application made using React.JS and CSS for
 
 ## Owner Information
 
-### Name :
-
-Sumit Chhablani
+### Name : Sumit Chhablani
 
 ### College :
 
