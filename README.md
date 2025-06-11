@@ -5,21 +5,13 @@ This is the online food ordering web application made using React.JS and CSS for
 
 ### Name : Sumit Chhablani
 
-### College :
+### College : IIT (ISM) Dhanbad, India
 
-IIT(ISM) Dhanbad, India
+### Contact : sumitchhablani20@gmail.com
 
-### Contact :
+### Alternate Contact : 23je0983@iitism.ac.in
 
-sumitchhablani20@gmail.com
-
-### Alternate Contact :
-
-23je0983@iitism.ac.in
-
-### Project Category :
-
-Personal Project
+### Project Category : Personal Project
 
 
 ## Follow These Commands 
