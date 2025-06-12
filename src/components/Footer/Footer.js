@@ -108,14 +108,14 @@ const Footer = () => {
           </Col>
 
           <p className={classes.mobile_copy}>
-            &copy;2025 Made with <i className="bi bi-heart-fill"></i> by&nbsp;
+            &copy;2025 Made with <i className="bi bi-heart-fill"></i>&nbsp;by&nbsp; 
             <a
               href="https://github.com/sumitchhablani21"
               target="_blank"
               rel="noreferrer"
               className={classes.eniola_codes}
             >
-              Sumit Chhablani Project
+              Sumit Chhablani
             </a>
           </p>
         </Row>
